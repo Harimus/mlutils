@@ -1,0 +1,7 @@
+numpy
+hydra_core
+torch
+tqdm
+opencv-python
+wandb
+wandb[media]
